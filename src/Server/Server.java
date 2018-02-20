@@ -8,7 +8,7 @@ import java.io.File;
 public class Server {
 
     //Puerto para recibir
-    private static int puerto = 57890;
+    static int puerto = 57890;
 
     //Ruta
     private static String ruta = "";
